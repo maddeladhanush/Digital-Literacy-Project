@@ -30,9 +30,9 @@ Drafted two professional emails and created a social media do’s and don’ts c
 Prepared a case study on cybercrime and created a prevention checklist for students.
 
 ## Useful Links
-- **GitHub Profile:** 
+- **GitHub Profile:** https://github.com/maddeladhanush
 - **LinkedIn Profile:** www.linkedin.com/in/maddela-dhanush-20a9393bb
-- **Google Form Link:** 
+- **Google Form Link:** https://docs.google.com/forms/d/e/1FAIpQLSe9sN4JsiIkOxeAATP5uAuurXrvAfm28J4ZnGwplh8ThBJl8Q/viewform
 ## Repository Structure
 - `task-1-presentation/` → Infographic
 - `task-2-portfolio/` → Profile screenshots
